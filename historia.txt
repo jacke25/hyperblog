@@ -6,4 +6,6 @@ Aun aprendiendo a usar Git
 
 Main 1
 
+Main 2
+
 Hoy aprenderemos poco a poco, porque desea apprenderlo todo
